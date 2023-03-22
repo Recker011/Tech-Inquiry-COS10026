@@ -1,0 +1,8 @@
+<h1 class="body-text-home-h1"><b>Creating<br>Brighter, Smarter<br>Smiles</b></h1>
+
+
+            <img class="home-graphic-image" src="home-smiling-woman-2.png">
+
+
+                        <h1 class="body-text-home-h1"><b>Creating Brighter,<br>Smarter Smiles</b></h1>
+            <p class="body-text-home-p">Welcome to the future of dental care! At our high-tech company, we specialize in advanced dentures and dental hygiene solutions that are unlike anything you've ever seen before. Our state-of-the-art technology and cutting-edge materials make for a sleek, modern look that will have you feeling confident and secure in your smile. From personalized denture design to top-of-the-line hygiene tools, we're committed to providing the very best in dental care. Say goodbye to traditional dentures and hello to the future of dental health with our innovative solutions. Join us on the cutting edge today!</p>
